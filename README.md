@@ -1,4 +1,4 @@
-# SvxLink_TTS_Sounds
+# SvxLink sound files
 
 Sound files for SvxLink (https://github.com/sm0svx/svxlink)
 
